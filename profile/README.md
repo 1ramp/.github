@@ -1,4 +1,4 @@
-![1RAMP Logo](https://github.com/1ramp/.github/raw/main/profile/logo.png)
+![1RAMP Logo](https://github.com/1ramp/.github/raw/main/profile/logo-brand.png)
 
 1RAMP gives back the self-sovereignty of their on and off ramp transactions to anyone.
 
